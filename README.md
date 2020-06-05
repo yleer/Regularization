@@ -8,6 +8,7 @@ Regularization is used to reduce overfitting.
 
 파란 점이랑 빨간 점 나누는 문제.
 
+
 1. No-Regularization
 
 <img width="525" alt="스크린샷 2020-06-05 오후 3 41 25" src="https://user-images.githubusercontent.com/48948578/83845120-39a54000-a743-11ea-9f54-5d2ea5645200.png">
@@ -44,6 +45,15 @@ Regularization is used to reduce overfitting.
 4. Conclusion
 
 <img width="997" alt="스크린샷 2020-06-05 오후 3 50 28" src="https://user-images.githubusercontent.com/48948578/83845798-8a696880-a744-11ea-8802-64a9fcc662eb.png">
+
+
+
+5. Program explanation
+    -NN model in main.py is 3-layed NN.
+    -In the bottom of the main.py there is a part where you can train a model.
+    -By changing the traing part you can try out L2, Drop-Out, and No-Regularization.
+    
+   
 
 
 
