@@ -52,7 +52,7 @@ Regularization is used to reduce overfitting.
 
     -NN model in main.py is 3-layed NN.
     
-    -In the bottom of the main.py there is a part where you can train a model.
+    -In the bottom of the main.py there is a part where you can train the model.
     
     -By changing the traing part you can try out L2, Drop-Out, and No-Regularization.
     
